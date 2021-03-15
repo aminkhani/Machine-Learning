@@ -2,12 +2,12 @@
 
 Try To Implement :
 
-Simple Linear Regression With Sklearn
+1. Simple Linear Regression With Sklearn
 
-Simple Linear Regression With pyhton
+2. Simple Linear Regression With pyhton
 
-Simple Linear Regression With keras
+3. Simple Linear Regression With keras
 
-Simple Linear Regression With pytorch
+4. Simple Linear Regression With pytorch
 
-Amin Khani
+##### Amin Khani
